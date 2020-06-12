@@ -1,0 +1,2 @@
+# PowerPointBookmarks
+Winmyth PowerPoint Bookmark Console is a compact and Convenience bookmark software designed for PowerPoint. Via the software, you can locate the slide accurately and quickly at which you stopped when left off work last time so as to carry on. Moreover, you can set any number of bookmarks in any presentation, and then switch between different positions of a same presentation and between different positions of different presentations quickly via those bookmarks to save time and energy wasted on searching for slides.
