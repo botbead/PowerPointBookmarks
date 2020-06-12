@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-06-22 11:16:40.147.cpp,D:\Backup\我的文档\RAD Studio\Projects\Unit1.cpp=N:\try_project\BC_INTF\BC_INTF.cpp</Transaction>
+    <Transaction>2009-06-22 11:16:40.147.h,D:\Backup\我的文档\RAD Studio\Projects\Unit1.h=N:\try_project\BC_INTF\BC_INTF.h</Transaction>
+    <Transaction>2009-06-22 11:16:40.147.dfm,D:\Backup\我的文档\RAD Studio\Projects\Unit1.dfm=N:\try_project\BC_INTF\BC_INTF.dfm</Transaction>
+    <Transaction>2009-06-22 11:17:41.916.cbproj,D:\Backup\我的文档\RAD Studio\Projects\Project1.cbproj=N:\try_project\BC_INTF\BC_INTF_PROJ.cbproj</Transaction>
+    <Transaction>2009-06-22 13:04:49.849.h,N:\try_project\BC_INTF\File1.h=N:\try_project\BC_INTF\dbl_end_str.h</Transaction>
+    <Transaction>2009-06-22 13:09:36.401.cpp,N:\try_project\BC_INTF\File1.cpp=</Transaction>
+    <Transaction>2009-06-23 23:57:51.215.h,N:\try_project\BC_INTF\File1.h=N:\try_project\BC_INTF\img_info.h</Transaction>
+    <Transaction>2009-07-03 08:22:13.227.cpp,N:\try_project\BC_INTF\File1.cpp=N:\try_project\BC_INTF\item_info.cpp</Transaction>
+    <Transaction>2009-07-10 14:29:49.073.h,N:\try_project\BC_INTF\File1.h=N:\try_project\BC_INTF\Handler.h</Transaction>
+    <Transaction>2009-07-10 15:40:01.510.h,N:\try_project\BC_INTF\Handler.h=</Transaction>
+    <Transaction>2009-07-13 16:39:41.602.cbproj,N:\try_project\BC_INTF\BC_INTF_PROJ.cbproj=N:\try_project\BC_INTF\BookMark_Console.cbproj</Transaction>
+    <Transaction>2009-07-13 16:41:25.822.cbproj,N:\try_project\BC_INTF\BookMark_Console.cbproj=N:\try_project\BC_INTF\Bookmark.cbproj</Transaction>
+    <Transaction>2009-07-13 16:41:38.831.cbproj,N:\try_project\BC_INTF\Bookmark.cbproj=N:\try_project\BC_INTF\Bookmark_Console.cbproj</Transaction>
+    <Transaction>2009-08-23 12:38:58.966.cpp,F:\TryCodes\BC_INTF\Unit2.cpp=F:\TryCodes\BC_INTF\ICON_FORM.cpp</Transaction>
+    <Transaction>2009-08-23 12:38:58.966.h,F:\TryCodes\BC_INTF\Unit2.h=F:\TryCodes\BC_INTF\ICON_FORM.h</Transaction>
+    <Transaction>2009-08-23 12:38:58.966.dfm,F:\TryCodes\BC_INTF\Unit2.dfm=F:\TryCodes\BC_INTF\ICON_FORM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
